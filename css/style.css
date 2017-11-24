@@ -1,0 +1,51 @@
+button {
+    background-color: #009688;
+    color: white;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+body {
+    font-size: 18px;
+    line-height: 34px;
+    font-family: sans-serif;
+    background-size: 100% auto;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#addAnimal {
+    padding: 8px;
+    background-color: #009688;
+    color: white;
+    margin-right: 120px;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+.gifContainer {
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.gifs {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+form {
+    float: right;
+}
